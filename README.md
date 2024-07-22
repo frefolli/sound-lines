@@ -3,6 +3,25 @@
 Takes as input a directory of `.m4a` files (`input`) and builds a directory of `.m4a` files (`output`) in which each song title/author/album is replaced by a public transpor line taken from `routes`.
 To call it, use `python3 -m main -P`, it will read the routes by reading `routes/agency.csv`, then passing each listed `routes/agency_code.csv` file ('agency_code' field of agency passed as csv).
 
+You can customize input, routes and output directories:
+
+```
+usage: main.py [-h] [-F] [-E] [-R] [-P] [-i INPUT] [-r ROUTES] [-o OUTPUT]
+
+options:
+  -h, --help            show this help message and exit
+  -F, --fix-all-names   fix_all_names($CWD)
+  -E, --enumerate       enumerate($CWD)
+  -R, --routing         routing($CWD/routes)
+  -P, --produce         produce($CWD/routes, $CWD, $CWD/output)
+  -i INPUT, --input INPUT
+                        input directory
+  -r ROUTES, --routes ROUTES
+                        routes directory
+  -o OUTPUT, --output OUTPUT
+                        output directory
+```
+
 # Sample Output
 
 ```

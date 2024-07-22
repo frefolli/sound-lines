@@ -79,13 +79,16 @@ if __name__ == "__main__":
   cli.add_argument('-E', '--enumerate', action='store_true', default=False, help='enumerate($CWD)')
   cli.add_argument('-R', '--routing', action='store_true', default=False, help='routing($CWD/routes)')
   cli.add_argument('-P', '--produce', action='store_true', default=False, help='produce($CWD/routes, $CWD, $CWD/output)')
+  cli.add_argument('-i', '--input', type=str, default='input', help='input directory')
+  cli.add_argument('-r', '--routes', type=str, default='routes', help='routes directory')
+  cli.add_argument('-o', '--output', type=str, default='output', help='output directory')
   config = cli.parse_args(sys.argv[1:])
 
   if config.fix_all_names:
-    fix_all_names('input')
+    fix_all_names(config.input)
   if config.enumerate:
-    enumerate('input')
+    enumerate(config.input)
   if config.routing:
-    routing('routes')
+    routing(config.routes)
   if config.produce:
-    produce('routes', 'input', 'output')
+    produce(config.routes, config.input, config.output)
