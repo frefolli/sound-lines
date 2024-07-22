@@ -1,0 +1,84 @@
+route_id,agency_id,route_short_name,route_long_name
+1,SETA-MO,1,Villaggio Z - Polo Leonardo - Autostazione - Stazione FS - Modena Est - Marinuzzi 
+2,SETA-MO,2,Sant'Anna - S. Cataldo - Autostazione - Largo Garibaldi - S. Damaso - S. Donnino 
+3,SETA-MO,3,Portorico - S. Caterina - Montefiorino - Stazione FS - Largo Garibaldi - Mattarella - Vaciglio 
+4,SETA-MO,4,Vaciglio Nord - Latina - Largo Garibaldi - Stazione FS - Autostazione - Galilei 
+5,SETA-MO,5,"Tre Olmi - D'Avia - Autostazione - ""Rotonda"" - La Torre "
+5taxi,SETA-MO,5taxi,Ganaceto - Villanova - Lesignana - Tre Olmi - Stazione FS 
+6,SETA-MO,6,Chinnici - Buon Pastore - Risorgimento - V.Veneto - Autostazione 
+7,SETA-MO,7,Gottardi - Largo Garibaldi - Autostazione - Stazione FS - Gramsci 
+7A,SETA-MO,7A,Gottardi - Largo Garibaldi - P.zza Roma - Stazione FS - Gramsci 
+8,SETA-MO,8,"Panni - Largo Garibaldi - Questura - ""Portali"" - Gazzotti "
+9,SETA-MO,9,"Marzaglia N. - Cittanova - ""Grandemilia"" - Autostazione - Stazione FS - Gottardi "
+10,SETA-MO,10,La Rocca - Albareto - Autostazione - Monte Kosica (Stazione FS) - Cognento 
+10taxi,SETA-MO,10taxi,La Rocca - Stazione FS - Cognento 
+11N,SETA-MO,11N,Sant'Anna - Stazione FS - P.zza Roma - via Emilia centro - Autostazione 
+11S,SETA-MO,11S,11S - Stazione FS - P.zza Roma - via Emilia centro - V. Veneto - Via Giardini - Zodiaco 
+12,SETA-MO,12,Polo Leonardo - P.zza Manzoni - Largo Garibaldi - Fanti (Stazione FS) - S. Caterina 
+13,SETA-MO,13,Ospedale Baggiovara - Autostazione - Stazione FS - (Sacca) - Sant'Anna - Carceri 
+14,SETA-MO,14,Nazioni - Finzi - Stazione FS - Nonantolana 1010 - (Portorico) 
+15,SETA-MO,15,Villanova - Ponte Alto - Santi - Autostazione 
+81,SETA-MO,81,Navetta Tetrapak - Sant'Anna 
+391,SETA-MO,391,Gottardi - Polo Leonardo 
+392,SETA-MO,392,Autostazione - Polo Leonardo 
+393,SETA-MO,393,Polo Leonardo - Stazione FS 
+blu,SETA-MO,blu,Gorizia - Palladio 
+gialla,SETA-MO,gialla,Venturelli - Mondine 
+rossa,SETA-MO,rossa,Cattania - Pista - Industriale 2 - Ipermercato 
+verde,SETA-MO,verde,Lenin - XXV Aprile 
+A,SETA-MO,A,Refice - Sassuolo Terminal - Cimitero nuovo 
+B,SETA-MO,B,Piscine - Sassuolo Terminal - Esselunga 
+C,SETA-MO,C,San Michele Socche - Salvarola Terme - Sassuolo Terminal - Monte Santo 
+401,SETA-MO,401,Stazione FS Mirandola - centro / polo biomedicale - Terminal Mirandola 
+895,SETA-MO,895,Centro Pavullo - Via Matteotti - Autostazione Pavullo 
+400,SETA-MO,400,Finale - Massa Finalese - Medolla - Cavezzo - Modena 
+410,SETA-MO,410,Finale - Camposanto - Solara - Ravarino - Bomporto - Modena 
+420,SETA-MO,420,Mirandola - Medolla - Cavezzo - S. Prospero - Modena 
+430,SETA-MO,430,Finale - Medolla - S. Felice - Mirandola 
+450,SETA-MO,450,Mirandola - Cavezzo - Carpi Terminal 
+470,SETA-MO,470,Camposanto - S. Felice - Mirandola 
+480,SETA-MO,480,Concordia - San Possidonio - Mirandola 
+491,SETA-MO,491,S. Martino Spino - Quarantoli - Mirandola 
+500,SETA-MO,500,Carpi Terminal - Soliera - Lesignana - Modena 
+510,SETA-MO,510,Moglia - Novi - Fossoli - Carpi Terminal 
+520,SETA-MO,520,Concordia - Rovereto - Carpi Terminal 
+530,SETA-MO,530,Concordia - Carpi Terminal - Sozzigalli - Modena 
+535,SETA-MO,535,Campogalliano - Gargallo - Carpi Terminal 
+540,SETA-MO,540,Carpi Terminal - Carpi FS - Fossoli - Migliarina 
+550,SETA-MO,550,Correggio - San Martino Rio - Campogalliano - Modena 
+600,SETA-MO,600,Piandelagotti - Montefiorino - Sassuolo 
+602,SETA-MO,602,Palagano - Vitriola - Montefiorino 
+604,SETA-MO,604,Frassinoro - Fontanaluccia - Rubbiano 
+610,SETA-MO,610,Sassuolo - Lugo - Polinago - Palagano 
+611,SETA-MO,611,Casa Guiglia - Boccassuolo - Palagano 
+615,SETA-MO,615,Palagano - Polinago - Pavullo 
+630,SETA-MO,630,Serramazzoni - Prignano - Varana - Sassuolo 
+631,SETA-MO,631,Pompeano - Serramazzoni 
+639,SETA-MO,639,Sassuolo - Braida - Fiorano - Maranello - Pozza 
+640,SETA-MO,640,Sassuolo - Maranello - Ca' di Sola - Vignola 
+643,SETA-MO,643,Sassuolo - Nirano 
+670,SETA-MO,670,Fiorano - Sassuolo - Corlo - Formigine - Modena 
+671,SETA-MO,671,Sassuolo - Ubersetto - Corlo - Modena 
+700,SETA-MO,700,Montese - Zocca - Guiglia - Vignola 
+710,SETA-MO,710,Pavullo - Ponte Samone - Missano - Zocca 
+720,SETA-MO,720,Castelluccio - Montese - Pavullo 
+730,SETA-MO,730,Sestola - Fanano - Vignola 
+731,SETA-MO,731,Vignola - Spilamberto - Castelnuovo - S. Donnino - Modena 
+740,SETA-MO,740,Banzuola Nuova - Vignola - Levizzano - Modena 
+745,SETA-MO,745,Serramazzoni - S. Dalmazio - Vignola 
+750,SETA-MO,750,Castelfranco - Cavazzona - Riolo - Rastellino - S. Giovanni in Persiceto 
+751,SETA-MO,751,Casoni - Bomporto - Nonantola - Redù - Castelfranco 
+760,SETA-MO,760,Vignola - Bazzano - Piumazzo - S. Cesario - Castelfranco - Modena 
+762,SETA-MO,762,Modena - Cittanova - Rubiera 
+800,SETA-MO,800,Pavullo - Serramazzoni - Maranello - Formigine - Modena 
+810,SETA-MO,810,Abetone - Pievepelago - Pavullo 
+815,SETA-MO,815,Modena - Formigine - Maranello (IPSIA) 
+820,SETA-MO,820,Pavullo - S. Dalmazio - Maranello - Montale - Modena 
+830,SETA-MO,830,Pavullo - Coscogno - Marano - Vignola 
+840,SETA-MO,840,Sestola - Montecreto - Renno - Pavullo 
+845,SETA-MO,845,Frassinoro - Pievepelago - Sestola - Pavullo 
+850,SETA-MO,850,Pavullo - Benedello - Casa Pianelli 
+860,SETA-MO,860,Pavullo - Monzone 
+870,SETA-MO,870,Pavullo - Montebonello 
+880,SETA-MO,880,Pavullo - bv Niviano - Gaiato 
+890,SETA-MO,890,Fanano - Vesale - Sestola

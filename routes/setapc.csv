@@ -1,0 +1,69 @@
+route_id,agency_id,route_short_name,route_long_name
+1,SETA-PC,1,Ferrovia - Belvedere - Ferrovia
+2,SETA-PC,2,Montale - S.Lazzaro - S.Antonio
+3,SETA-PC,3,Farnesiana - FS - Veggioletta
+4,SETA-PC,4,Camposanto Vecchio - Borgo Trebbia
+5,SETA-PC,5,P.za S.Antonino - Peep - Ospedale - P.za S.Antonino
+6,SETA-PC,6,FS - v.Boselli -FS
+7,SETA-PC,7,FS - Ospedale
+8,SETA-PC,8,FS - Stadio - FS
+9,SETA-PC,9,P.za Cittadella - Mortizza
+10,SETA-PC,10,Piazza S. Antonino - I Dossi
+11,SETA-PC,11,Piazza Cittadella - Ivaccari
+12,SETA-PC,12,P.za Cittadella - Montale - Roncaglia - I Dossi
+15,SETA-PC,15,P.za Cittadella - FS - Besurica
+16,SETA-PC,16,Ferrovia - v.Boselli - Ospedale - FS
+17,SETA-PC,17,FS - Ospedale - v.Boselli - FS
+18,SETA-PC,18,Giarona - Baia Del Re - FS - Cittadella
+19,SETA-PC,19,Strada Caorsana - Capitolo - FS
+NS,SETA-PC,NS,P.S.Antonino - Stadio
+NL,SETA-PC,NL,Lupa - Cittadella - Lupa
+MB,SETA-PC,MB,Montale - Farnesiana - S.Lazzaro - Besurica - S.Antonio
+CS,SETA-PC,CS,Centro Scolastico
+E1,SETA-PC,E1,Piacenza - Campremoldo - Cantone - Pianello
+E2,SETA-PC,E2,Pianello - Montalbo - Vicobarone - Castel S.Giovanni
+E3,SETA-PC,E3,Piacenza - Castel S. Giovanni - Borgonovo - Pianello - Caminata
+E4,SETA-PC,E4,Piacenza - S.Nicolò - Tavernago - Agazzano
+E5,SETA-PC,E5,Piacenza - Incrociata - Santimento - Boscone Cusani
+E6,SETA-PC,E6,San Gabriele - Agazzano - Gragnano - Piacenza
+E7,SETA-PC,E7,Piacenza - Borgonovo - Ziano - Vicobarone
+E8,SETA-PC,E8,Piacenza - Castel S. Giovanni - Borgonovo - Pianello - Caminata
+E9,SETA-PC,E9,Croce - Albareto - Borgonovo
+E11,SETA-PC,E11,Borgonovo - Castel S.Giovanni - Piacenza - San Giorgio - Carpaneto
+E12,SETA-PC,E12,Piozzano - Agazzano - Gragnanino - Borgonovo - Castel S.Giovanni
+E13,SETA-PC,E13,Agazzano - Balletta - Ponte Tuna - Piacenza
+E14,SETA-PC,E14,Piacenza -Gragnano - Agazzano (Suburbana) - Prolung. Piozzano
+E16,SETA-PC,E16,Coli - Bobbio
+E17,SETA-PC,E17,Piacenza - Bobbio - Ponte Organasco - Ottone
+E18,SETA-PC,E18,Travo - Statto - Rivergaro- Gossolengo - Piacenza
+E19,SETA-PC,E19,Cerignale - Cariseto - Veri bivio - Ottone
+E20,SETA-PC,E20,Piacenza - Besurica - Gossolengo
+E21,SETA-PC,E21,Rivergaro - Quarto - Piacenza (Diram. Pittolo)
+E22,SETA-PC,E22,Bobbio - Marsaglia - Salsominore - Rezzoaglio
+E23,SETA-PC,E23,Bobbio - Passo Penice
+E26,SETA-PC,E26,Piacenza - Ponte dell'Olio - Bettola - Farini - Selva
+E34,SETA-PC,E34,Piacenza - Ponte dell'Olio - Bettola - Farini - Selva
+E35,SETA-PC,E35,Ponte dell'Olio (Carmiano) - Podenzano - S.Bonico - Piacenza
+E40,SETA-PC,E40,Piacenza - Salsomaggiore Terme
+E41,SETA-PC,E41,Piacenza - Carpaneto - Castell'Arquato - Lugagnano
+E42,SETA-PC,E42,S.Michele - Carpaneto - Cadeo - Piacenza
+E43,SETA-PC,E43,Piacenza - Fiorenzuola - Lugagnano - Vernasca
+E44,SETA-PC,E44,Borla - Alseno - Fiorenzuola - Piacenza
+E45,SETA-PC,E45,Morfasso - Lugagnano - Carpaneto - Piacenza
+E46,SETA-PC,E46,Lugagnano - Bacedasco Terme - Fiorenzuola - Piacenza
+E47,SETA-PC,E47,Borla - Scipione Ponte - Alseno - Fiorenzuola
+E48,SETA-PC,E48,Pianazzo Casali - Lugagnano - Fiorenzuola - Piacenza
+E49,SETA-PC,E49,S.Michele - Lugagnano - Fiorenzuola
+E50,SETA-PC,E50,Alseno - Fiorenzuola - Roveleto - Piacenza
+E51,SETA-PC,E51,Borgonovo - Castel S.Giovanni - Piacenza - San Giorgio - Carpaneto
+E52,SETA-PC,E52,Carpaneto - Ciriano - Chero - Fiorenzuola
+E53,SETA-PC,E53,Piacenza - S.Damiano - Rizzolo - Ponte dell'Olio
+E54,SETA-PC,E54,Groppovisdomo - Gropparello - Carpaneto - Piacenza
+E55,SETA-PC,E55,Fidenza - Lugagnano
+E56,SETA-PC,E56,Piacenza - Cortemaggiore - Busseto (dev. S.Martino) - Besenzone
+E57,SETA-PC,E57,Piacenza - Caorso - Monticelli - Cremona
+E58,SETA-PC,E58,Villanova - S.Pietro in Cerro - Cortemaggiore - Fiorenzuola
+E59,SETA-PC,E59,Cremona - Cortemaggiore - Fiorenzuola - Salsomaggiore
+E75,SETA-PC,E75,Cardazzo - C.S.Giovanni - Pianello
+E76,SETA-PC,E76,Cardazzo - C.S.Giovanni - Pieve Porto Morone
+EC1,SETA-PC,EC1,Cicogni - Pecorara - Nibbiano

@@ -1,0 +1,67 @@
+route_id,agency_id,route_short_name,route_long_name
+01,SETA-RE,01,Quartiere Foscato - Reggio Emilia - Albinea - Botteghe 
+01+,SETA-RE,01+,Scandiano - Borzano - Albinea - Puianello 
+02,SETA-RE,02,Rubiera - Via Curie - Reggio E. - Via Cardano 
+03,SETA-RE,03,Istituti Penitenziari - Stazione FS - Caserma Zucchi - Via Maroncelli 
+04,SETA-RE,04,Coviolo Chiesa - Piazza Gioberti - Stazione FS - Via Curie 
+05,SETA-RE,05,Mancasale Fiera - Stazione AV - Via Makalle - Stazione FS - Baragalla - Rivalta Peep 
+05+,SETA-RE,05+,Rivalta Peep - Pamperduto - Boschi - Puianello - Montecavolo 
+06,SETA-RE,06,Tribunale - Caserma Zucchi - Piazza Gioberti - Baragalla - Rivalta Via Oddone 
+07,SETA-RE,07,Cavriago - Reggio Emilia - Canali 
+08,SETA-RE,08,S. Ilario - Reggio Emilia - Ritiro 
+09,SETA-RE,09,Via Ruini - Caserma Zucchi - Stazione FS - Fogliano 
+10,SETA-RE,10,Via P. delle Ginestre - Viale Timavo - Via del Chionso Deposito SETA 
+11,SETA-RE,11,Via Mascagni - Via Adua - Gavassa 
+12,SETA-RE,12,Roncocesi - Via Kennedy - Reggio E. - Massenzatico - Pratofontana 
+13,SETA-RE,13,Sesso - Reggio E. - Polo Makalle 
+14,SETA-RE,14,Reggio Emilia - Coviolo Chiesa - Rivalta - Rubbianino 
+E,SETA-RE,E,Park Volo - Piazza del Monte - Porta S. Pietro - Park Funakoshi 
+E1,SETA-RE,E1,Park Funakoshi - Polveriera - Via Roma - Porta S.Pietro - Polveriera - Park Funakoshi 
+E2,SETA-RE,E2,Park Volo - Porta S.Stefano - Piazza Gioberti - Via Franchetti - Porta S.Stefano - Park Volo 
+G,SETA-RE,G,Park Foro Boario - Piazza Gioberti - Park Le Querce 
+H,SETA-RE,H,Park Luxemburg - Ospedale - Stazione FS 
+M,SETA-RE,M,Stazione AV - Park P.le Lari (Stadio) - Centro Storico - Stazione FS 
+22,SETA-RE,22,Servizio Scolastico Istituto ZANELLI - MOTTI 
+23,SETA-RE,23,Servizio Scolastico Istituto - CITTA' DEL TRICOLORE 
+24,SETA-RE,24,Servizio Scolastico Istituto - GALVANI - IODI 
+30,SETA-RE,30,Scuole Medie Castelnovo Monti 
+33,SETA-RE,33,Cimitero - Autostazione - Espansione Sud - Municipio - Cimitero 
+34,SETA-RE,34,Bosco - Ca de Caroli - S. Ruffino - Scandiano 
+35,SETA-RE,35,Santa Vittoria - Carrobbio - San Giacomo - Guastalla 
+37,SETA-RE,37,Castelnovo Monti - Casale - Vologno 
+39,SETA-RE,39,Villa Minozzo - Febbio - Roncopianigi - Monte Orsaro 
+40,SETA-RE,40,Collagna - Vallisnera - Valbona 
+41,SETA-RE,41,Reggio Emilia - Prato - Lemizzone - Gazzata - S. Martino in Rio 
+43,SETA-RE,43,Reggio Emilia - Bagnolo in Piano - Budrio - Correggio - Canolo - Campagnola - Novellara - Fabbrico - Rolo 
+44,SETA-RE,44,Reggio Emilia - La Vecchia - Castelnovo Monti - Passo del Cerreto - Cerreto Laghi 
+46,SETA-RE,46,Reggio Emilia - Scandiano - Viano - Baiso - Cerredolo - Carpineti - Castelnovo Monti 
+47,SETA-RE,47,Reggio Emilia - Pecorile - Casina - Leguigno 
+48,SETA-RE,48,Reggio Emilia - Montecavolo - Quattro Castella - S. Polo - Vetto - Castelnovo Monti 
+49,SETA-RE,49,Montecchio - Ciano d' Enza - Cerezzola - Vedriano - Pietranera 
+50,SETA-RE,50,Castelnovo Monti - Ramiseto - Succiso Nuovo 
+52,SETA-RE,52,Reggio Emilia - Regnano - San Giovanni di Querciola - Casina - Carpineti 
+53,SETA-RE,53,Ciano d' Enza - Ceredolo dei Coppi 
+54,SETA-RE,54,Castelnovo Monti - Felina - Villa Minozzo - Febbio - Gazzano - Fontanaluccia - Civago 
+56,SETA-RE,56,Villa Minozzo - Morsiano - Novellano 
+58,SETA-RE,58,Reggio Emilia - Villa Argine - Villa Seta - Case Gazzini 
+59,SETA-RE,59,Reggio Emilia - S. Rigo - Rubbianino 
+60,SETA-RE,60,Castelnovo Monti - Pietra di BismantovaBismantino 
+62,SETA-RE,62,Castelnovo Monti - Felina - Cavola - Cerre Marabino - Toano 
+63,SETA-RE,63,Poviglio - Santa Vittoria - Guastalla 
+65,SETA-RE,65,Campegine - Caprara - Praticello - Taneto - S. Ilario - Montecchio Emilia 
+66,SETA-RE,66,Gnana - Colombaia - Carpineti - Castelnovo Monti 
+67,SETA-RE,67,Castelnovo Monti - Talada 
+68,SETA-RE,68,Scandiano - Salvaterra - Arceto - Bagno - Rubiera 
+71,SETA-RE,71,Reggio Emilia - Campegine - Praticello 
+72,SETA-RE,72,Reggio Emilia - Roncosano - Borzano 
+74,SETA-RE,74,Castelnovo Monti - Bondolo - Busana - Villa Minozzo - Caru - Piolo - Ligonchio 
+77,SETA-RE,77,Montecavolo - Quattro Castella - Montecchio 
+78,SETA-RE,78,Scandiano - Casalgrande - Roteglia 
+82,SETA-RE,82,Reggio Emilia - Budrio - Bagnolo in Piano - Correggio - Carpi 
+87,SETA-RE,87,Reggio Emilia - Santa Vittoria - Gualtieri - Guastalla - Luzzara - Suzzara - Reggiolo 
+88,SETA-RE,88,Sassuolo - Castellarano - Roteglia - Cerredolo - Cavola - Toano - Quara 
+93,SETA-RE,93,Reggio Emilia - Cadelbosco Sopra - Castelnovo Sotto - Meletole - Poviglio - Brescello - Boretto - Viadana 
+94,SETA-RE,94,Reggio Emilia - Cavriago - Montecchio 
+95,SETA-RE,95,Carpi - Rio Saliceto - Campagnola - Novellara - Reggiolo 
+96,SETA-RE,96,Reggio Emilia - Arceto - Salvaterra - Casalgrande - Villalunga - Sassuolo 
+97,SETA-RE,97,Castelnovo Sotto - Campegine - Taneto - S. Ilario - Parma 
