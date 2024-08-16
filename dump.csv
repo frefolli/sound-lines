@@ -1,76 +1,140 @@
-Title,Author
-Accelerated,Miami Nights 1984
-ALL THAT I WANT,MR.M
-Altmark Electros,EBM Armee
-Around The World,Nightcore
-Bad boy,Nightcore
-Beautiful Man,Radiorama
-Boom boom boom boom,Vengaboys
-Born Slippy,Underworld
-Can't Stop,Martin Solveig
-Caramelldansen,Caramella_Girls
-Cheri Cheri Lady,Morgenshtern
-Clarity,Nightcore
-Crazy Little Love,Nuage
-Cupid,FIFTY FIFTY
-Diamond is unbreakable,Yugo Kanno
-Die Young,Ke$ha
-Electric Groove,Lazerhawk
-Electro Body Night,BLOOD SHOT EYES
-Every Byte You Take,SUSE
-Everytime we touch,Nightcore
-Eyes,Youth 83
-Free Bird,Lynyrd Skynyrd
-Hard Times,Nightcore
-Head First,HOME
-How Do You Do,Nightcore
-I like the way you kiss me,Artemas
-I Love It,Icona Pop
-I'm So Lucky Lucky,Nightcore
-Into Me,Glare
-Iris,Pastel Ghost
-It Doesn't Matter,Sonic Adventure
-Just Dance,Lady Gaga
-Kiss Me Again,Roy Bee
-Kunst,KMFDM
-Last Friday Night,Katy Perry
-LITERALLY ME 1,
-LITERALLY ME 2,
-Looka Bomba,Go2
-Ma Chérie,Loivey
-Magic Butterfly,Radiorama
-Malo Tebya,Serebro
-Mamma Mia,Veronica
-Megalomaniac,KMFDM
-Memory Reboot,VØJ x Narvent
-Narvent,Fainted
-Nas Ne Dogonyat,T.A.T.U
-Oh Baby Do It,Milk & Coffea
-Open and Wild,SUSE
-Out of my League,Fitz And The Tantrums
-Overdrive,Lazerhawk
-Pedro,Raffaella Carra'
-Pyatyy Kontinent,Майами
-Resonance,HOME
-Roppongi Carillon,Blue Roses
-Running Ninja,Eurofunk
-S.O.S.,Veronica
-Safe And Sound,Capital Cities
-Set Me Free,Ace
-SimpsonWave1995,FrankJavCee
-Sladko,Serebro
-Sleepwalker,akiaura
-Stephy Martini,Mad Desire
-Stereo Love,Edward Maya
-Stop To Give Up,Eurofunk
-Stormy Weather,Romeo
-Suffocation,Arno Breker
-Summertime Sadness,Zyzz
-Superdance,Vicky Vale
-Taking Drugs,Scott Brown
-Teste Rasate,Techno 2
-Tevvez,Legend
-Two Steps From Hell,Exhumed
-Voyage,Hyper
-With My Fire,Sarah
-На Дне,Molchat Doma
+agency_id,short_name,long_name,title,author,album
+Trenord,R1,Bergamo-Brescia,1mm,Perfume,
+Trenord,R11,Colico-Chiavenna,ALL THAT I WANT,MR.M,
+Trenord,R12,Sondrio-Tirano,Accelerated,Miami Nights 1984,
+Trenord,R13,Lecco-Colico-Sondrio,Around The World,Nightcore,
+Trenord,R14,Bergamo-Carnate-Milano,Bad boy,Nightcore,
+Trenord,R16,Asso-Milano,Beautiful Man,Radiorama,
+Trenord,R17,Como-Saronno-Milano,Boom boom boom boom,Vengaboys,
+Trenord,R18,Como-Molteno-Lecco,Born Slippy,Underworld,
+Trenord,R2,Bergamo-Treviglio,Buckle Up! Sp Counter 0,YuGiOh,
+Trenord,R21,Luino-Gallarate-Milano,Buckle Up! Sp Counter 12,YuGiOh,
+Trenord,R22,Varese-Saronno-Milano,Can't Stop,Martin Solveig,
+Trenord,R23,Domodossola-Arona-Gallarate-Milano,Caramelldansen,Caramella_Girls,
+Trenord,R25,Novara-Mortara,Cheri Cheri Lady,Morgenshtern,
+Trenord,R27,Novara-Saronno-Milano,Chocolate Disco,Perfume,
+Trenord,R28,Malpensa-Saronno-Milano Centrale,Clarity,Nightcore,
+Trenord,R3,Brescia-Iseo-Breno,Crazy For Love,Sarah,
+Trenord,R31,Mortara-Milano,Crazy Little Love,Nuage,
+Trenord,R34,Stradella-Pavia-Milano,Cupid,FIFTY FIFTY,
+Trenord,R35,Pavia-Torreberetti-Alessandria,Dajyobanai,Perfume,
+Trenord,R36,Pavia-Mortara-Vercelli,Diamond is unbreakable,Yugo Kanno,
+Trenord,R37,Pavia-Codogno,Die Young,KeSha,
+Trenord,R38,Piacenza-Lodi-Milano,Dream Fighter,Perfume,
+Trenord,R39,Codogno-Cremona,Edge,Perfume,
+Trenord,R4,Brescia-Treviglio-Milano,Electric Groove,Lazerhawk,
+Trenord,R40,Cremona-Piadena-Mantova,Electro Body Night,BLOOD SHOT EYES,
+Trenord,R41,Voghera-Piacenza,Electro World,Perfume,
+Trenord,R5,Brescia-Cremona,Every Byte You Take,SUSE,
+Trenord,R6,Cremona-Treviglio,Everytime we touch,Nightcore,
+Trenord,R7,Lecco-Bergamo,Eyes,Youth 83,
+Trenord,R8,Brescia-Piadena-Parma,Fainted,Narvent,
+Trenord,RE1,Laveno-Varese-Saronno-Milano,Fake It,Perfume,
+Trenord,RE11,Mantova-Cremona-Codogno-Milano,Free Bird,Lynyrd Skynyrd,
+Trenord,RE13,Alessandria-Pavia-Milano,Gatling Buster,YuGiOh,
+Trenord,RE2,Bergamo-Pioltello-Milano,Glitter,Perfume,
+Trenord,RE3,Brescia-Iseo-Edolo,Go Stronger,YuGiOh,
+Trenord,RE4,Domodossola-Milano,Hard Times,Nightcore,
+Trenord,RE5,Porto Ceresio-Varese-Gallarate-Milano,Head First,HOME,
+Trenord,RE6,Verona-Brescia-Milano,Highway Battle Royal,YuGiOh,
+Trenord,RE7,Como-Saronno-Milano,How Do You Do,Nightcore,
+Trenord,RE8,Tirano-Sondrio-Lecco-Milano,I Love It,Icona Pop,
+Trenord,RE80,Locarno - Chiasso - Como - Milano,I Still Love U,Perfume,
+Trenord,S1,Saronno-Milano Passante-Lodi,I like the way you kiss me,Artemas,
+Trenord,S10,Como Camerlata - Como S.G. - Mendrisio - Bellinzona,I'm Gonna Carry On,Ai Yamamoto,
+Trenord,S11,Chiasso - Como - Milano - Rho,I'm So Lucky Lucky,Nightcore,
+Trenord,S12,Melegnano-Milano Passante-Milano Bovisa-Cormano,Into Me,Glare,
+Trenord,S13,Pavia-Milano Passante-Milano Bovisa,Iris,Pastel Ghost,
+Trenord,S2,Mariano Comense-Seveso-Milano Passante-Milano Rogoredo,It Doesn't Matter,Sonic Adventure,
+Trenord,S3,Saronno-Milano Bovisa-Milano Cadorna,Just Dance,Lady Gaga,
+Trenord,S30,Cadenazzo-Luino-Gallarate,Kiss Me Again,Roy Bee,
+Trenord,S4,Camnago-Milano Bovisa-Milano Cadorna,Kunst,KMFDM,
+Trenord,S40,Como Camerlata - Como S.G. - Chiasso - Mendrisio - Varese FS,LITERALLY ME 1,,
+Trenord,S5,Varese-Milano Passante-Treviglio,LITERALLY ME 2,,
+Trenord,S50,Malpensa - Varese FS - Mendrisio - Bellinzona,Laser Beam,Perfume,
+Trenord,S6,Novara-Milano Passante-Treviglio,Last Friday Night,Katy Perry,
+Trenord,S7,Lecco-Molteno-Monza-Milano,Looka Bomba,Go2,
+Trenord,S8,Lecco-Carnate-Monza-Milano Porta Garibaldi,Ma Chérie,Loivey,
+Trenord,S9,Saronno-Seregno-Milano S.Cristoforo-Albairate,Macaroni,Perfume,
+Trenord,XP1,Malpensa-Milano Cadorna,Magic Butterfly,Radiorama,
+Trenord,XP2,Malpensa-Milano Centrale,Magic of Love,Perfume,
+SETA-PC,1,Ferrovia - Belvedere - Ferrovia,Malo Tebya,Serebro,
+SETA-PC,2,Montale - S.Lazzaro - S.Antonio,Mamma Mia,Veronica,
+SETA-PC,3,Farnesiana - FS - Veggioletta,Megalomaniac,KMFDM,
+SETA-PC,4,Camposanto Vecchio - Borgo Trebbia,Memory Reboot,VØJ x Narvent,
+SETA-PC,5,P.za S.Antonino - Peep - Ospedale - P.za S.Antonino,Mirai No Museum,Perfume,
+SETA-PC,6,FS - v.Boselli -FS,Nas Ne Dogonyat,T.A.T.U,
+SETA-PC,7,FS - Ospedale,Natural ni Koishite,Perfume,
+SETA-PC,8,FS - Stadio - FS,Nee,Perfume,
+SETA-PC,9,P.za Cittadella - Mortizza,Night Flight,Perfume,
+SETA-PC,10,Piazza S. Antonino - I Dossi,Oh Baby Do It,Milk & Coffea,
+SETA-PC,11,Piazza Cittadella - Ivaccari,One Coin Dream,YuGiOh,
+SETA-PC,12,P.za Cittadella - Montale - Roncaglia - I Dossi,One Room Disco,Perfume,
+SETA-PC,15,P.za Cittadella - FS - Besurica,Open and Wild,SUSE,
+SETA-PC,16,Ferrovia - v.Boselli - Ospedale - FS,Original EBMer,BLOOD SHOT EYES,
+SETA-PC,17,FS - Ospedale - v.Boselli - FS,Out of my League,Fitz And The Tantrums,
+SETA-PC,18,Giarona - Baia Del Re - FS - Cittadella,Overdrive,Lazerhawk,
+SETA-PC,19,Strada Caorsana - Capitolo - FS,Pedro,Raffaella Carra',
+SETA-PC,NS,P.S.Antonino - Stadio,Pick Me Up,Perfume,
+SETA-PC,NL,Lupa - Cittadella - Lupa,Polyrhythm,Perfume,
+SETA-PC,MB,Montale - Farnesiana - S.Lazzaro - Besurica - S.Antonio,Pyatyy Kontinent,Майами,
+SETA-PC,CS,Centro Scolastico,Regolus,TGX,
+SETA-PC,E1,Piacenza - Campremoldo - Cantone - Pianello,Resonance,HOME,
+SETA-PC,E2,Pianello - Montalbo - Vicobarone - Castel S.Giovanni,Roppongi Carillon,Blue Roses,
+SETA-PC,E3,Piacenza - Castel S. Giovanni - Borgonovo - Pianello - Caminata,Running Ninja,Eurofunk,
+SETA-PC,E4,Piacenza - S.Nicolò - Tavernago - Agazzano,S.O.S.,Veronica,
+SETA-PC,E5,Piacenza - Incrociata - Santimento - Boscone Cusani,Safe And Sound,Capital Cities,
+SETA-PC,E6,San Gabriele - Agazzano - Gragnano - Piacenza,Set Me Free,Ace,
+SETA-PC,E7,Piacenza - Borgonovo - Ziano - Vicobarone,SimpsonWave1995,FrankJavCee,
+SETA-PC,E8,Piacenza - Castel S. Giovanni - Borgonovo - Pianello - Caminata,Sladko,Serebro,
+SETA-PC,E9,Croce - Albareto - Borgonovo,Sleepwalker,akiaura,
+SETA-PC,E11,Borgonovo - Castel S.Giovanni - Piacenza - San Giorgio - Carpaneto,Space Battles 3,,
+SETA-PC,E12,Piozzano - Agazzano - Gragnanino - Borgonovo - Castel S.Giovanni,Spending all my time,Perfume,
+SETA-PC,E13,Agazzano - Balletta - Ponte Tuna - Piacenza,Spinning World,Perfume,
+SETA-PC,E14,Piacenza -Gragnano - Agazzano (Suburbana) - Prolung. Piozzano,Spring of Life,Perfume,
+SETA-PC,E16,Coli - Bobbio,Stephy Martini,Mad Desire,
+SETA-PC,E17,Piacenza - Bobbio - Ponte Organasco - Ottone,Stereo Love,Edward Maya,
+SETA-PC,E18,Travo - Statto - Rivergaro- Gossolengo - Piacenza,Stop To Give Up,Eurofunk,
+SETA-PC,E19,Cerignale - Cariseto - Veri bivio - Ottone,Stormy Weather,Romeo,
+SETA-PC,E20,Piacenza - Besurica - Gossolengo,Suffocation,Arno Breker,
+SETA-PC,E21,Rivergaro - Quarto - Piacenza (Diram. Pittolo),Summertime Sadness,Zyzz,
+SETA-PC,E22,Bobbio - Marsaglia - Salsominore - Rezzoaglio,Superdance,Vicky Vale,
+SETA-PC,E23,Bobbio - Passo Penice,Taking Drugs,Scott Brown,
+SETA-PC,E26,Piacenza - Ponte dell'Olio - Bettola - Farini - Selva,Teste Rasate,Techno 2,
+SETA-PC,E34,Piacenza - Ponte dell'Olio - Bettola - Farini - Selva,Tevvez,Legend,
+SETA-PC,E35,Ponte dell'Olio (Carmiano) - Podenzano - S.Bonico - Piacenza,Time Warp,Perfume,
+SETA-PC,E40,Piacenza - Salsomaggiore Terme,Title Music,YuGiOh,
+SETA-PC,E41,Piacenza - Carpaneto - Castell'Arquato - Lugagnano,Two Steps From Hell,Exhumed,
+SETA-PC,E42,S.Michele - Carpaneto - Cadeo - Piacenza,Vetri Infranti,BLOOD SHOT EYES,
+SETA-PC,E43,Piacenza - Fiorenzuola - Lugagnano - Vernasca,Vicious Attack,YuGiOh,
+SETA-PC,E44,Borla - Alseno - Fiorenzuola - Piacenza,Voyage,Hyper,
+SETA-PC,E45,Morfasso - Lugagnano - Carpaneto - Piacenza,Wilderness,YuGiOh,
+SETA-PC,E46,Lugagnano - Bacedasco Terme - Fiorenzuola - Piacenza,Winning Music,YuGiOh,
+SETA-PC,E47,Borla - Scipione Ponte - Alseno - Fiorenzuola,With My Fire,Sarah,
+SETA-PC,E48,Pianazzo Casali - Lugagnano - Fiorenzuola - Piacenza,На Дне,Molchat Doma,
+SETA-PC,E49,S.Michele - Lugagnano - Fiorenzuola,C,TGX,
+SETA-PC,E50,Alseno - Fiorenzuola - Roveleto - Piacenza,Comp,TGX,
+SETA-PC,E51,Borgonovo - Castel S.Giovanni - Piacenza - San Giorgio - Carpaneto,MGP,TGX,
+SETA-PC,E52,Carpaneto - Ciriano - Chero - Fiorenzuola,Becoming Insane,Infected Mushroom,
+SETA-PC,E53,Piacenza - S.Damiano - Rizzolo - Ponte dell'Olio,Der Maschinist,Orange Sector,
+SETA-PC,E54,Groppovisdomo - Gropparello - Carpaneto - Piacenza,Der Mussolini,DAF,
+SETA-PC,E55,Fidenza - Lugagnano,Endzeit,Orange Sector,
+SETA-PC,E56,Piacenza - Cortemaggiore - Busseto (dev. S.Martino) - Besenzone,Farben,Orange Sector,
+SETA-PC,E57,Piacenza - Caorso - Monticelli - Cremona,Five Stars,TGX,
+SETA-PC,E58,Villanova - S.Pietro in Cerro - Cortemaggiore - Fiorenzuola,Kebab Träume,DAF,
+SETA-PC,E59,Cremona - Cortemaggiore - Fiorenzuola - Salsomaggiore,War of the Religions,Orange Sector,
+SETA-PC,E75,Cardazzo - C.S.Giovanni - Pianello,Deep In The Dark,Laura Branigan,Branigan
+SETA-PC,E76,Cardazzo - C.S.Giovanni - Pieve Porto Morone,Gloria,Laura Branigan,Branigan
+SETA-PC,EC1,Cicogni - Pecorara - Nibbiano,Losing,TGX,Reverse Of Arcadia
+SETA-RE,01,Quartiere Foscato - Reggio Emilia - Albinea - Botteghe ,Self Control,Laura Branigan,Self Control
+SETA-RE,01+,Scandiano - Borzano - Albinea - Puianello ,Shattered,Laura Branigan,Touch
+SETA-RE,02,Rubiera - Via Curie - Reggio E. - Via Cardano ,Spanish Eddie,Laura Branigan,Hold Me
+SETA-RE,03,Istituti Penitenziari - Stazione FS - Caserma Zucchi - Via Maroncelli ,The Lucky One,Laura Branigan,Self Control
+SETA-RE,04,Coviolo Chiesa - Piazza Gioberti - Stazione FS - Via Curie ,Towards Victory,TGX,Stardust Accelerator
+SETA-RE,05,Mancasale Fiera - Stazione AV - Via Makalle - Stazione FS - Baragalla - Rivalta Peep ,EBM Armee,Altmark Electros,
+SETA-RE,05+,Rivalta Peep - Pamperduto - Boschi - Puianello - Montecavolo ,All I Ever Wanted,Nightcore,Basshunter
+SETA-RE,06,Tribunale - Caserma Zucchi - Piazza Gioberti - Baragalla - Rivalta Via Oddone ,Hot N Cold,Nightcore,Katy Perry
+SETA-RE,07,Cavriago - Reggio Emilia - Canali ,Nostalgia,Nightcore,Plenka
+SETA-RE,08,S. Ilario - Reggio Emilia - Ritiro ,Tricky Disco,Nightcore,Discotronik
+SETA-RE,09,Via Ruini - Caserma Zucchi - Stazione FS - Fogliano ,Vamos a la Playa,Nightcore,Loona
+SETA-RE,10,Via P. delle Ginestre - Viale Timavo - Via del Chionso Deposito SETA ,We Fell Apart,Nightcore,Overrated

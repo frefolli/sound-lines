@@ -56,29 +56,61 @@ def enumerate(directory: str):
       metadatas.append({'file': file, 'title': data[0], 'author': data[1], 'album': data[2]})
   return metadatas
 
+def correct(input_directory: str):
+  files = enumerate(input_directory)
+  for file in files:
+    metadata = {
+      'author': 'franc',
+      'album': file['album'],
+      'artist': file['author'],
+      'title': file['title']
+    }
+    input_path = os.path.join(input_directory, file['file'])
+    output_path = 'tmp.m4a'
+    ffmpeg_edit_metadata(input_path, metadata, output_path)
+    os.rename(output_path, input_path)
+
 def produce(routes_directory: str, input_directory: str, output_directory: str):
+  dump={
+    'agency_id': [],
+    'short_name': [],
+    'long_name': [],
+    'title': [],
+    'author': [],
+    'album': []
+  }
+
   os.makedirs(output_directory, exist_ok=True)
   routes = open_routes(routes_directory)
   files = enumerate(input_directory)
 
   for file in files:
     route = routes.pop(0)
+    dump['agency_id'].append(route['agency_id'])
+    dump['short_name'].append(route['short_name'])
+    dump['long_name'].append(route['long_name'])
+    dump['title'].append(file['title'])
+    dump['author'].append(file['author'])
+    dump['album'].append(file['album'])
     metadata = {
       'author': 'franc',
       'album': route['agency_id'],
+      'artist': file['author'],
       'title': "Linea %s - %s" % (route['short_name'], route['long_name']),
       'comment': "%s - %s - %s" % (file['title'], file['author'], file['album'])
     }
     input_path = os.path.join(input_directory, file['file'])
     output_path = os.path.join(output_directory, "%s - %s - %s.m4a" % (route['agency_id'], route['short_name'], route['long_name']))
     ffmpeg_edit_metadata(input_path, metadata, output_path)
+  pandas.DataFrame(dump).to_csv('dump.csv', index=False)
 
 if __name__ == "__main__":
   cli = argparse.ArgumentParser()
-  cli.add_argument('-F', '--fix-all-names', action='store_true', default=False, help='fix_all_names($CWD)')
-  cli.add_argument('-E', '--enumerate', action='store_true', default=False, help='enumerate($CWD)')
-  cli.add_argument('-R', '--routing', action='store_true', default=False, help='routing($CWD/routes)')
-  cli.add_argument('-P', '--produce', action='store_true', default=False, help='produce($CWD/routes, $CWD, $CWD/output)')
+  cli.add_argument('-F', '--fix-all-names', action='store_true', default=False, help='fix_all_names($InputDir)')
+  cli.add_argument('-E', '--enumerate', action='store_true', default=False, help='enumerate($InputDir)')
+  cli.add_argument('-R', '--routing', action='store_true', default=False, help='routing($InputDir/routes)')
+  cli.add_argument('-C', '--correct', action='store_true', default=False, help='correct($InputDir)')
+  cli.add_argument('-P', '--produce', action='store_true', default=False, help='produce($InputDir/routes, $InputDir, $OutputDir)')
   cli.add_argument('-i', '--input', type=str, default='input', help='input directory')
   cli.add_argument('-r', '--routes', type=str, default='routes', help='routes directory')
   cli.add_argument('-o', '--output', type=str, default='output', help='output directory')
@@ -90,5 +122,7 @@ if __name__ == "__main__":
     enumerate(config.input)
   if config.routing:
     routing(config.routes)
+  if config.correct:
+    correct(config.input)
   if config.produce:
     produce(config.routes, config.input, config.output)
