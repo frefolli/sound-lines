@@ -101,6 +101,9 @@ def produce(routes_directory: str, input_directory: str, output_directory: str):
     }
     input_path = os.path.join(input_directory, file['file'])
     output_path = os.path.join(output_directory, "%s - %s - %s.m4a" % (route['agency_id'], route['short_name'], route['long_name']))
+    LRC_path = os.path.join(output_directory, "%s - %s - %s.lrc" % (route['agency_id'], route['short_name'], route['long_name']))
+    with open(LRC_path, mode="w") as file:
+      file.write("[00:00:00]%s - %s - %s" % (route['agency_id'], route['short_name'], route['long_name']))
     ffmpeg_edit_metadata(input_path, metadata, output_path)
   pandas.DataFrame(dump).to_csv('dump.csv', index=False)
 
