@@ -17,7 +17,7 @@ def fix_all_names(directory: str):
 
 def ffmpeg_edit_metadata(input_path: str, metadata: dict, output_path: str):
   stringified_metadata = " ".join("-metadata %s=\"%s\"" % (k,v) for (k,v) in metadata.items())
-  os.system("ffmpeg -i \"%s\" %s -codec copy \"%s\"" % (input_path, stringified_metadata, output_path))
+  os.system("ffmpeg -y -i \"%s\" %s -codec copy \"%s\"" % (input_path, stringified_metadata, output_path))
 
 def open_routes(directory: str):
   agency = pandas.read_csv(os.path.join(directory, 'agency.csv'))
@@ -50,9 +50,9 @@ def enumerate(directory: str):
     if ext in [".m4a"]:
       data = [_.strip() for _ in stem.split('-')]
       if len(data) < 2:
-        data = (*data, "")
+        data = [*data, ""]
       if len(data) < 3:
-        data = (*data, "")
+        data = [*data, ""]
       metadatas.append({'file': file, 'title': data[0], 'author': data[1], 'album': data[2]})
   return metadatas
 
@@ -70,8 +70,20 @@ def correct(input_directory: str):
     ffmpeg_edit_metadata(input_path, metadata, output_path)
     os.rename(output_path, input_path)
 
+def read_dump():
+  dump: dict[tuple, tuple] ={
+  }
+  if os.path.exists('dump.csv'):
+    df = pandas.read_csv('dump.csv')
+    df = df.fillna('')
+    print(df.head(2000))
+    for _, row in df.iterrows():
+      dump[(row['agency_id'], row['short_name'], row['long_name'])] = (row['title'], row['author'], row['album'])
+  return dump
+
+
 def produce(routes_directory: str, input_directory: str, output_directory: str):
-  dump={
+  dump: dict[str, list[str]] ={
     'agency_id': [],
     'short_name': [],
     'long_name': [],
@@ -83,6 +95,7 @@ def produce(routes_directory: str, input_directory: str, output_directory: str):
   os.makedirs(output_directory, exist_ok=True)
   routes = open_routes(routes_directory)
   files = enumerate(input_directory)
+  old_dump = read_dump()
 
   for file in files:
     route = routes.pop(0)
@@ -92,19 +105,23 @@ def produce(routes_directory: str, input_directory: str, output_directory: str):
     dump['title'].append(file['title'])
     dump['author'].append(file['author'])
     dump['album'].append(file['album'])
-    metadata = {
-      'author': 'franc',
-      'album': route['agency_id'],
-      'artist': file['author'],
-      'title': "Linea %s - %s" % (route['short_name'], route['long_name']),
-      'comment': "%s - %s - %s" % (file['title'], file['author'], file['album'])
-    }
-    input_path = os.path.join(input_directory, file['file'])
-    output_path = os.path.join(output_directory, "%s - %s - %s.m4a" % (route['agency_id'], route['short_name'], route['long_name']))
-    LRC_path = os.path.join(output_directory, "%s - %s - %s.lrc" % (route['agency_id'], route['short_name'], route['long_name']))
-    with open(LRC_path, mode="w") as file:
-      file.write("[00:00:00]%s - %s - %s" % (route['agency_id'], route['short_name'], route['long_name']))
-    ffmpeg_edit_metadata(input_path, metadata, output_path)
+
+    key = (route['agency_id'], route['short_name'], route['long_name'])
+    value = (file['title'], file['author'], file['album'])
+    if old_dump.get(key) != value:
+      metadata = {
+        'author': 'franc',
+        'album': route['agency_id'],
+        'artist': file['author'],
+        'title': "Linea %s - %s" % (route['short_name'], route['long_name']),
+        'comment': "%s - %s - %s" % (file['title'], file['author'], file['album'])
+      }
+      input_path = os.path.join(input_directory, file['file'])
+      output_path = os.path.join(output_directory, "%s - %s - %s.m4a" % (route['agency_id'], route['short_name'], route['long_name']))
+      #LRC_path = os.path.join(output_directory, "%s - %s - %s.lrc" % (route['agency_id'], route['short_name'], route['long_name']))
+      #with open(LRC_path, mode="w") as file:
+      #  file.write("[00:00:00]%s - %s - %s" % (route['agency_id'], route['short_name'], route['long_name']))
+      ffmpeg_edit_metadata(input_path, metadata, output_path)
   pandas.DataFrame(dump).to_csv('dump.csv', index=False)
 
 if __name__ == "__main__":

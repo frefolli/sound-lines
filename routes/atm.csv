@@ -1,0 +1,357 @@
+route_id,agency_id,route_short_name,route_long_name
+M1,ATM,M1,Sesto FS - Rho Fieramilano-Bisceglie
+M2,ATM,M2,P.za Abbiategrasso-Assago Forum - Gessate-Cologno Nord
+M3,ATM,M3,S.Donato - Comasina
+M4,ATM,M4,Linate Aeroporto - San Cristoforo
+M5,ATM,M5,Bignami - San Siro Stadio
+MELA,ATM,MELA,Ospedale S. Raffaele - C.na Gobba M2
+T1,ATM,T1,Greco - Certosa FS
+T1,ATM,T1,Certosa FS - Greco
+T2,ATM,T2,P.za Bausan - P.le Negrelli
+T2,ATM,T2,P.le Negrelli - P.za Bausan
+T3,ATM,T3,Gratosoglio - Duomo M1 M3
+T3,ATM,T3,Duomo M1 M3 - Gratosoglio
+T4,ATM,T4,Niguarda (Parco Nord) - Cairoli M1
+T4,ATM,T4,Cairoli M1 - Niguarda (Parco Nord)
+T5,ATM,T5,Ortica - Ospedale Maggiore
+T5,ATM,T5,Ospedale Maggiore - Ortica
+T7,ATM,T7,L.go Mattei - P.le Lagosta
+T7,ATM,T7,P.le Lagosta - L.go Mattei
+T9,ATM,T9,P.ta Genova FS M2 - Centrale FS M2 M3
+T9,ATM,T9,Centrale FS M2 M3 - P.ta Genova FS M2
+T10,ATM,T10,V.le Lunigiana - XXIV Maggio
+T10,ATM,T10,XXIV Maggio - V.le Lunigiana
+T12,ATM,T12,Certosa FS - V.le Molise
+T12,ATM,T12,V.le Molise - Certosa FS
+T14,ATM,T14,Cim. Maggiore - Lorenteggio
+T14,ATM,T14,Lorenteggio - Cim. Maggiore
+T15,ATM,T15,Rozzano Via G. Rossa - Duomo M1 M3
+T15,ATM,T15,Duomo M1 M3 - Rozzano Via G. Rossa
+T16,ATM,T16,M.te Velino - S.Siro Stadio M5
+T16,ATM,T16,S.Siro Stadio M5 - M.te Velino
+T19,ATM,T19,Lambrate FS M2 - P.za Castelli
+T19,ATM,T19,P.za Castelli - Lambrate FS M2
+T24,ATM,T24,Vigentino - P.za Fontana
+T24,ATM,T24,P.za Fontana - Vigentino
+T27,ATM,T27,P.zza Fontana - V.le Ungheria
+T27,ATM,T27,V.le Ungheria - P.zza Fontana
+T31,ATM,T31,Cinisello B. - Bicocca M5
+T31,ATM,T31,Bicocca M5 - Cinisello B.
+T33,ATM,T33,Rimembranze di Lambrate - P.le Lagosta
+T33,ATM,T33,P.le Lagosta - Rimembranze di Lambrate
+B34,ATM,B34,Via Toffetti - Q.re Fatima
+B34,ATM,B34,Q.re Fatima - Via Toffetti
+B35,ATM,B35,Molino Dorino M1 - Comasina M3
+B35,ATM,B35,Comasina M3 - Molino Dorino M1
+B38,ATM,B38,Via Corelli - P.le Susa
+B38,ATM,B38,P.le Susa - Via Corelli
+B39,ATM,B39,Loreto - Pitteri
+B39,ATM,B39,Pitteri - Loreto
+B40,ATM,B40,Bonola M1 - Niguarda (Parco Nord)
+B40,ATM,B40,Niguarda (Parco Nord) - Bonola M1
+B41,ATM,B41,Q.re Bovisasca - Niguarda
+B41,ATM,B41,Niguarda - Q.re Bovisasca
+B42,ATM,B42,N42 - Q.re Bicocca - Centrale FS M2 M3
+B42,ATM,B42,N42 - Centrale FS M2 M3 - Q.re Bicocca
+B43,ATM,B43,Piazza Greco - Piazza Firenze
+B43,ATM,B43,Piazza Firenze - Piazza Greco
+B44,ATM,B44,C.na Gobba M2 - Q.re Turro
+B44,ATM,B44,Q.re Turro - C.na Gobba M2
+B45,ATM,B45,S.Donato M3 - Lambrate FS M2
+B45,ATM,B45,Lambrate FS M2 - S.Donato M3
+B46,ATM,B46,Famagosta M2 - Q.re Cantalupa
+B46,ATM,B46,Q.re Cantalupa - Famagosta M2
+B47,ATM,B47,Bisceglie M1 - Romolo M2
+B47,ATM,B47,Romolo M2 - Bisceglie M1
+B48,ATM,B48,Ist. Palazzolo - Lotto M1
+B48,ATM,B48,Lotto M1 - Ist. Palazzolo
+B49,ATM,B49,San Cristoforo M4 - Lotto M1 M5
+B49,ATM,B49,Lotto M1 M5 - San Cristoforo M4
+B50,ATM,B50,N50 - Lorenteggio - Cairoli M1
+B50,ATM,B50,N50 - Cairoli M1 - Lorenteggio
+B51,ATM,B51,Cimiano M2 - Zara M3 M5
+B51,ATM,B51,Zara M3 M5 - Cimiano M2
+B52,ATM,B52,Bruzzano FN - Bicocca Universita'
+B52,ATM,B52,Bicocca Universita' - Bruzzano FN
+B53,ATM,B53,S.Marelli M1 - Lambrate FS
+B53,ATM,B53,Lambrate FS - S.Marelli M1
+B54,ATM,B54,N54 - Cascina Gobba M2 - Lambrate FS M2 - Dateo M4
+B54,ATM,B54,N54 - Dateo M4 - Lambrate FS M2 - Cascina Gobba M2
+B55,ATM,B55,Cimitero Lambrate - Loreto
+B55,ATM,B55,Loreto - Cimitero Lambrate
+B56,ATM,B56,Q.re Adriano - Loreto
+B56,ATM,B56,Loreto - Q.re Adriano
+B57,ATM,B57,N57 - Q.to Oggiaro - Cairoli
+B57,ATM,B57,N57 - Cairoli - Q.to Oggiaro
+B58,ATM,B58,Baggio via Noale - Cadorna FN M1 M2
+B58,ATM,B58,Cadorna FN M1 M2 - Baggio via Noale
+B59,ATM,B59,Famagosta M2 - P.ta Lodovica
+B59,ATM,B59,P.ta Lodovica - Famagosta M2
+B60,ATM,B60,Zara M3 M5 - Duomo M1 M3
+B60,ATM,B60,Duomo M1 M3 - Zara M3 M5
+B61,ATM,B61,L.go Murani - Duomo M1 M3
+B61,ATM,B61,Duomo M1 M3 - L.go Murani
+B62,ATM,B62,Piazza Sire Raul - P.ta Romana M3
+B62,ATM,B62,P.ta Romana M3 - Piazza Sire Raul
+B63,ATM,B63,Muggiano - De Angeli M1
+B63,ATM,B63,De Angeli M1 - Muggiano
+B64,ATM,B64,Lorenteggio - Bonola M1
+B64,ATM,B64,Bonola M1 - Lorenteggio
+B65,ATM,B65,P.za Abbiategrasso M2 - P.ta Romana M3
+B65,ATM,B65,P.ta Romana M3 - P.za Abbiategrasso M2
+B67,ATM,B67,Baggio via Scanini - P.le Baracca
+B67,ATM,B67,P.le Baracca - Baggio via Scanini
+B68,ATM,B68,Bonola M1 - Via Bergognone
+B68,ATM,B68,Via Bergognone - Bonola M1
+B69,ATM,B69,Molino Dorino M1 - Gallaratese - Piazza Firenze
+B69,ATM,B69,Piazza Firenze - Molino Dorino M1 - Gallaratese
+B70,ATM,B70,Cim. Bruzzano - Ceresio
+B70,ATM,B70,Ceresio - Cim. Bruzzano
+B71,ATM,B71,Romolo M2 - Famagosta M2
+B71,ATM,B71,Famagosta M2 - Romolo M2
+B74,ATM,B74,Famagosta M2 - P.le Cantore
+B74,ATM,B74,P.le Cantore - Famagosta M2
+B76,ATM,B76,Quinto Romano - Bisceglie M1
+B76,ATM,B76,Bisceglie M1 - Quinto Romano
+B77,ATM,B77,Poasco - San Donato M3
+B77,ATM,B77,San Donato M3 - Poasco
+B78,ATM,B78,Via Govone - Bisceglie M1
+B78,ATM,B78,Bisceglie M1 - Via Govone
+B79,ATM,B79,Q.re Gratosoglio - P.ta Lodovica
+B79,ATM,B79,P.ta Lodovica - Q.re Gratosoglio
+B80,ATM,B80,N80 - Molino Dorino M1 - De Angeli M1
+B80,ATM,B80,N80 - De Angeli M1 - Molino Dorino M1
+B81,ATM,B81,Sesto Marelli M1 - Lambrate FS
+B81,ATM,B81,Lambrate FS - Sesto Marelli M1
+B82,ATM,B82,Bovisasca - Zara M3 M5
+B82,ATM,B82,Zara M3 M5 - Bovisasca
+B84,ATM,B84,V.le Martini - L.go Augusto
+B84,ATM,B84,L.go Augusto - V.le Martini
+B85,ATM,B85,L.go Augusto - Bolivar M4
+B85,ATM,B85,Bolivar M4 - L.go Augusto
+B86,ATM,B86,Crescenzago M2 - Ca' Granda M5
+B86,ATM,B86,Ca' Granda M5 - Crescenzago M2
+B87,ATM,B87,Villa San Giovanni M1 - Centrale FS
+B87,ATM,B87,Centrale FS - Villa San Giovanni M1
+B88,ATM,B88,Rogoredo FS M3 - Linate
+B88,ATM,B88,Linate - Rogoredo FS M3
+B89,ATM,B89,Novate Milanese - Affori FN-M3
+B89,ATM,B89,Affori FN-M3 - Novate Milanese
+B90,ATM,B90,N90 - Isonzo - Lotto (Circolare destra)
+B90,ATM,B90,N90 - Lotto - Isonzo (Circolare destra)
+B91,ATM,B91,N91 - Isonzo - Lotto (Circolare sinistra)
+B91,ATM,B91,N91 - Lotto - Isonzo (Circolare sinistra)
+B92,ATM,B92,Bovisa FN - Viale Isonzo
+B92,ATM,B92,Viale Isonzo - Bovisa FN
+B93,ATM,B93,Lambrate - Viale Omero
+B93,ATM,B93,Viale Omero - Lambrate
+B94,ATM,B94,P.ta Volta - S. Ambrogio M2 M4
+B94,ATM,B94,S. Ambrogio M2 M4 - P.ta Volta
+B95,ATM,B95,Rogoredo FS M3 - San Cristoforo M4
+B95,ATM,B95,San Cristoforo M4 - Rogoredo FS M3
+B98,ATM,B98,Famagosta M2 - P.le Lotto M1 M5
+B98,ATM,B98,P.le Lotto M1 M5 - Famagosta M2
+B99,ATM,B99,Noverasco - Vigentino
+B99,ATM,B99,Vigentino - Noverasco
+BN15,ATM,BN15,NOTTURNA Gratosoglio - Duomo M1 M3
+BN15,ATM,BN15,NOTTURNA Duomo M1 M3 - Gratosoglio
+BN24,ATM,BN24,NOTTURNA Vigentino - Duomo M1 M3
+BN24,ATM,BN24,NOTTURNA Duomo M1 M3 - Vigentino
+BN25,ATM,BN25,NOTTURNA Centrale FS M2 M3 - Cadorna FN M1 M2
+BN25,ATM,BN25,NOTTURNA Cadorna FN M1 M2 - Centrale FS M2 M3
+BN26,ATM,BN26,NOTTURNA Centrale FS M2 M3 - Cadorna FN M1 M2
+BN26,ATM,BN26,NOTTURNA Cadorna FN M1 M2 - Centrale FS M2 M3
+BN27,ATM,BN27,NOTTURNA Viale Ungheria - Duomo M1 M3
+BN27,ATM,BN27,NOTTURNA Duomo M1 M3 - Viale Ungheria
+BNM1,ATM,BNM1,NOTTURNA Molino Dorino M1 - Sesto 1° Maggio FS M1 - Bisceglie M1 - Cairoli M1
+BNM1,ATM,BNM1,NOTTURNA Sesto 1° Maggio FS M1 - Molino Dorino M1 - Cairoli M1 - Bisceglie M1
+BNM2,ATM,BNM2,NOTTURNA Cascina Gobba M2 - P.za Abbiategrasso M2
+BNM2,ATM,BNM2,NOTTURNA P.za Abbiategrasso M2 - Cascina Gobba M2
+BNM3,ATM,BNM3,NOTTURNA San Donato M3 - Comasina M3
+BNM3,ATM,BNM3,NOTTURNA Comasina M3 - San Donato M3
+BNM4,ATM,BNM4,NOTTURNA Aeroporto Linate M4 - Lorenteggio
+BNM4,ATM,BNM4,NOTTURNA Lorenteggio - Aeroporto Linate M4
+BB12,ATM,BB12,Cacciatori delle Alpi - Roserio
+BB12,ATM,BB12,Roserio - Cacciatori delle Alpi
+B171,ATM,B171,Interno Cimitero Maggiore
+B171,ATM,B171,Interno Cimitero Maggiore
+B172,ATM,B172,Bicocca - Cimitero Bruzzano
+B172,ATM,B172,Cimitero Bruzzano - Bicocca
+B174,ATM,B174,Turro - Loreto
+B174,ATM,B174,Loreto - Turro
+B175,ATM,B175,P.te Lambro - Cimitero Lambrate
+B175,ATM,B175,Cimitero Lambrate - P.te Lambro
+B176,ATM,B176,Bruzzano - Interno Cimitero
+B176,ATM,B176,Interno Cimitero - Bruzzano
+B66,ATM,B66,Cadore - Peschiera Borromeo
+B66,ATM,B66,Peschiera Borromeo - Cadore
+B83,ATM,B83,H. Maggiore - Comasina M3
+B83,ATM,B83,Comasina M3 - H. Maggiore
+B121,ATM,B121,S.Donato M3 - S.Giuliano
+B121,ATM,B121,S. Giuliano - S. Donato M3
+B130,ATM,B130,S.Donato M3 (Marignano) - S.Giuliano M.se (Zivido)
+B130,ATM,B130,S.Giuliano M.se (Zivido) - S.Donato M3 (Marignano)
+B132,ATM,B132,S.Donato M3 (Marignano) - S.Donato (Di Vittorio)
+B132,ATM,B132,S.Donato (Di Vittorio) - S.Donato M3 (Marignano)
+B140,ATM,B140,Rogoredo FS-M3 - San Donato
+B140,ATM,B140,San Donato - Rogoredo FS-M3
+B165,ATM,B165,Comasina M3 - Limbiate (Ospedale)
+B165,ATM,B165,Limbiate (Ospedale) - Comasina M3
+B166,ATM,B166,Milano - Desio
+B166,ATM,B166,Desio - Milano
+B201,ATM,B201,Rozzano Via Milano - Rozzano Via Alberelle
+B201,ATM,B201,Rozzano Via Alberelle - Rozzano Via Milano
+B220,ATM,B220,Rozzano Via Solidarietà - Locate T. Via Piave
+B220,ATM,B220,Locate T. Via Piave - Rozzano Via Solidarietà
+B222,ATM,B222,Milano Q.re Vigentino - Pieve E. Stazione FS
+B222,ATM,B222,Pieve E. Stazione FS - Milano Q.re Vigentino
+B230,ATM,B230,Milano P.za Abbiategrasso M2 - Basiglio
+B230,ATM,B230,Basiglio - Milano P.za Abbiategrasso M2
+B321,ATM,B321,Milano - Buccinasco - Assago
+B321,ATM,B321,Assago - Buccinasco - Milano
+B322,ATM,B322,Bisceglie M1 - Cesano Boscone Q.re Tessera
+B322,ATM,B322,Cesano Boscone Q.re Tessera - Bisceglie M1
+B323,ATM,B323,Bisceglie M1 - Cesano Boscone FS
+B323,ATM,B323,Cesano Boscone FS - Bisceglie M1
+B324,ATM,B324,Romolo M2 - Corsico (P.za Europa)
+B324,ATM,B324,Corsico (P.za Europa) - Romolo M2
+B325,ATM,B325,Romolo M2 - Buccinasco (Via Lario)
+B325,ATM,B325,Buccinasco (Via Lario) - Romolo M2
+B326,ATM,B326,San Cristoforo M4 - Corsico (Via Curiel)
+B326,ATM,B326,Corsico (Via Curiel) - San Cristoforo M4
+B327,ATM,B327,Bisceglie M1 - Trezzano s.N. Q.re Zingone
+B327,ATM,B327,Trezzano s.N. Q.re Zingone - Bisceglie M1
+B328,ATM,B328,Assago Forum M2 - Pieve E. Stazione FS
+B328,ATM,B328,Pieve E. Stazione FS - Assago Forum M2 - Pieve E. Stazione FS
+B351,ATM,B351,P.le Negrelli - Buccinasco (Via Emilia)
+B351,ATM,B351,Buccinasco (Via Emilia) - P.le Negrelli
+B352,ATM,B352,Buccinasco - Assago
+B352,ATM,B352,Assago - Buccinasco
+B353,ATM,B353,Assago (via del Sole) - Assago Nord M2
+B353,ATM,B353,Assago Nord M2 - Assago (via del Sole)
+B423,ATM,B423,San Siro Stadio M5 - Settimo Milanese
+B423,ATM,B423,Settimo Milanese - San Siro Stadio M5
+B424,ATM,B424,Molino Dorino M1 - Bareggio
+B424,ATM,B424,Bareggio - Molino Dorino M1
+B431,ATM,B431,Bareggio - Passirana
+B431,ATM,B431,Passirana - Bareggio
+B433,ATM,B433,Bisceglie M1 - Passirana
+B433,ATM,B433,Passirana - Bisceglie M1
+B528,ATM,B528,RHO (Capuana) - Cimitero Maggiore
+B528,ATM,B528,Cimitero Maggiore - RHO (Capuana)
+B542,ATM,B542,Passirana - Rho Fiera M1
+B542,ATM,B542,Rho Fiera M1 - Passirana
+B560,ATM,B560,Arese - Milano (QT8 M1)
+B560,ATM,B560,Milano (QT8 M1) - Arese
+B561,ATM,B561,Arese (Vismara) - Rho Fiera M1
+B561,ATM,B561,Rho Fiera M1 - Arese (Vismara)
+B566,ATM,B566,Milano (Roserio) - Paderno Dugnano
+B566,ATM,B566,Paderno Dugnano - Milano (Roserio)
+B700,ATM,B700,Sesto FS M1 - Sesto Cimitero (p.Hiroshima)
+B700,ATM,B700,Sesto Cimitero (p.Hiroshima) - Sesto FS M1
+B701,ATM,B701,Sesto Rondo' M1 - Cologno Sud M2
+B701,ATM,B701,Cologno Sud M2 - Sesto Rondo' M1
+B702,ATM,B702,Cologno Nord M2 - Cinisello
+B702,ATM,B702,Cinisello - Cologno Nord M2
+B705,ATM,B705,Cormano - Comasina M3
+B705,ATM,B705,Comasina M3 - Cormano
+B707,ATM,B707,Cologno Nord M2 - Cologno Monzese Via Giordano
+B707,ATM,B707,Cologno Monzese Via Giordano - Cologno Nord M2
+B708,ATM,B708,Niguarda (Parco Nord) - Sesto Rondo' M1
+B708,ATM,B708,Sesto Rondo' M1 - Niguarda (Parco Nord)
+B709,ATM,B709,Cologno Sud M2 - Cologno S.Maurizio
+B709,ATM,B709,Cologno S.Maurizio - Cologno Sud M2
+B712,ATM,B712,Cinisello B. - Sesto S.G.
+B712,ATM,B712,Sesto S.G. - Cinisello B.
+B713,ATM,B713,Sesto (Cimitero Vecchio) - Bignami M5
+B713,ATM,B713,Bignami M5 - Sesto (Cimitero Vecchio)
+B727,ATM,B727,Stazione Cormano - Cusano Fn
+B727,ATM,B727,Cormano-Cusano FN - Sesto FS M1
+B728,ATM,B728,Bignami M5 - Cusano V.le Unione
+B728,ATM,B728,Cusano V.le Unione - Bignami M5
+B729,ATM,B729,Sesto FS M1 - Comasina M3
+B729,ATM,B729,Comasina M3 - Sesto FS M1
+B783,ATM,B783,Bicocca M5 - Bresso (v.Don Minzoni)
+B783,ATM,B783,Bresso (v.Don Minzoni) - Bicocca M5
+B901,ATM,B901,San Donato M3 - Aeroporto Linate M4
+B901,ATM,B901,Aeroporto Linate M4 - San Donato M3
+B902,ATM,B902,San Donato M3 - Peschiera Borromeo
+B902,ATM,B902,Peschiera Borromeo - San Donato M3
+B903,ATM,B903,San Donato M3 - Aeroporto Linate M4
+B903,ATM,B903,Aeroporto Linate M4 - San Donato M3
+B923s,ATM,B923s,Segrate Via Di Vittorio - Segrate Istituti Scolastici
+B923s,ATM,B923s,Segrate Istituti Scolastici - Segrate Via Di Vittorio
+B923,ATM,B923,H.S.Raffaele - Aeroporto Linate
+B923,ATM,B923,Aeroporto Linate - H S.Raffaele
+B924,ATM,B924,Lambrate FS M2 - Segrate
+B924,ATM,B924,Segrate - Lambrate FS M2
+B925,ATM,B925,C.na Gobba M2 - Milano Due
+B925,ATM,B925,Milano Due - C.na Gobba M2
+B926,ATM,B926,Peschiera B. (San Felicino) - Segrate FS
+B926,ATM,B926,Segrate FS - Peschiera B. (San Felicino)
+B965,ATM,B965,Pioltello - Milano
+B965,ATM,B965,Milano - Pioltello
+B973,ATM,B973,Peschiera Borromeo (San Felicino) - Milano (P.za Cinque Giornate)
+B973,ATM,B973,Milano (P.za Cinque Giornate) - Peschiera Borromeo (San Felicino)
+BZ301,ATM,BZ301,Milano - Bergamo
+BZ301,ATM,BZ301,Bergamo - Milano
+BZ304,ATM,BZ304,Cologno Nord M2 - Brugherio (Circolare unica)
+BZ305,ATM,BZ305,Cologno Nord M2 - Cernusco s.N. (Villa Fiorita M2)
+BZ305,ATM,BZ305,Cernusco s.N. (Villa Fiorita M2) - Cologno Nord M2
+BZ307,ATM,BZ307,Vimercate - Cologno Nord M2
+BZ307,ATM,BZ307,Cologno Nord M2 - Vimercate
+BZ309,ATM,BZ309,Cassano d' Adda FS - Trezzo sull' Adda
+BZ309,ATM,BZ309,Trezzo sull' Adda - Cassano d' Adda FS
+BZ310,ATM,BZ310,Gessate M2 - Trezzo sull' Adda
+BZ310,ATM,BZ310,Trezzo sull' Adda - Gessate M2
+BZ311,ATM,BZ311,Gessate M2 - Vaprio
+BZ311,ATM,BZ311,Vaprio - Gessate M2
+BZ312,ATM,BZ312,Gessate M2 - Vimercate autostazione
+BZ312,ATM,BZ312,Vimercate autostazione - Gessate M2
+BZ313,ATM,BZ313,Gessate M2 - Paderno d' Adda
+BZ313,ATM,BZ313,Paderno d' Adda - Gessate M2
+BZ314,ATM,BZ314,Gessate M2 - Monza FS
+BZ314,ATM,BZ314,Monza FS - Gessate M2
+BZ315,ATM,BZ315,Gorgonzola M2 - Vimercate
+BZ315,ATM,BZ315,Vimercate - Gorgonzola M2
+BZ317,ATM,BZ317,Correzzana - Vimercate
+BZ317,ATM,BZ317,Vimercate - Correzzana
+BZ318,ATM,BZ318,Vimercate - Usmate
+BZ318,ATM,BZ318,Usmate - Vimercate
+BZ319,ATM,BZ319,Ronco Briantino - Vimercate - Arcore FS
+BZ319,ATM,BZ319,Arcore FS - Vimercate - Ronco Briantino
+BZ321,ATM,BZ321,Monza FS - Trezzo d'Adda con dir. Porto d' Adda e Mezzago
+BZ321,ATM,BZ321,Trezzo d'Adda con dir. Porto d' Adda e Mezzago - Monza FS
+BZ322,ATM,BZ322,Cologno Nord M2 - Trezzo d'Adda con dir. Cornate (Porto d'Adda)
+BZ322,ATM,BZ322,Trezzo d'Adda con dir. Cornate (Porto d'Adda) - Cologno Nord M2
+BZ323,ATM,BZ323,Cologno Nord M2 - Vimercate
+BZ323,ATM,BZ323,Vimercate - Cologno Nord M2
+BZ201,ATM,BZ201,S.Alessandro - S.Albino
+BZ201,ATM,BZ201,S.Albino - S.Alessandro
+BZ202,ATM,BZ202,D'Annunzio - Libertà (Cimitero)
+BZ202,ATM,BZ202,Libertà (Cimitero) - D'Annunzio
+BZ204,ATM,BZ204,Taccona di Muggiò - Vedano
+BZ204,ATM,BZ204,Vedano - Taccona di Muggiò
+BZ206,ATM,BZ206,Monza (Osp. S. Gerardo) - Monza (Della Robbia)
+BZ206,ATM,BZ206,Monza (Della Robbia) - Monza (Osp. S. Gerardo)
+BZ208,ATM,BZ208,S.Fruttuoso - Arcore FS
+BZ208,ATM,BZ208,Arcore FS - S.Fruttuoso
+BZ211,ATM,BZ211,CIRCOLARE A - Monza (Carducci) - Monza (Carducci)
+BZ211,ATM,BZ211,CIRCOLARE A - Monza (Carducci) - Monza (Carducci)
+BZ212,ATM,BZ212,CIRCOLARE B - Monza (Carducci) - Monza (Carducci)
+BZ212,ATM,BZ212,CIRCOLARE B - Monza (Carducci) - Monza (Carducci)
+Q34,ATM,Q34,Fatima - Noverasco
+Q35,ATM,Q35,Affori - Senigallia
+Q39,ATM,Q39,Lambrate - Rubattino
+Q44,ATM,Q44,Gorla - Ponte Nuovo
+Q45,ATM,Q45,Forlanini - Ponte Lambro
+Q46,ATM,Q46,Cantalupa - Palach
+Q52,ATM,Q52,Bruzzano - Niguarda
+Q55,ATM,Q55,Casoretto - Feltre
+Q68,ATM,Q68,Bonola - Gallaratese
+Q75,ATM,Q75,Udine - Rizzoli
+Q76,ATM,Q76,Quinto Romano - Val D'Intelvi
+Q78,ATM,Q78,Portello - San Siro
+Q79,ATM,Q79,Chiesa Rossa - Gratosoglio
+Q86,ATM,Q86,Adriano - Precotto
+Q88,ATM,Q88,Santa Giulia - Rogoredo
